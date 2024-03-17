@@ -519,10 +519,6 @@ section {
   font-style: normal;
 }
 
-.skills .progress-bar-wrap {
-  background: #f2f3f5;
-}
-
 .skills .progress-bar {
   width: 1px;
   height: 10px;
