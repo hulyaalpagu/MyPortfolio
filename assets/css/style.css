@@ -470,7 +470,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #f1f4f7;
+  color: #011426;
 }
 
 .facts .count-box p {
@@ -511,12 +511,16 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #f1f4f7;
+  color: #45505b;
 }
 
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
+}
+
+.skills .progress-bar-wrap {
+  background: #f2f3f5;
 }
 
 .skills .progress-bar {
