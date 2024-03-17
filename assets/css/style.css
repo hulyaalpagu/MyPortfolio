@@ -401,7 +401,6 @@ section {
 
 @media (min-width: 992px) {
   .about {
-    height: 100%; /* Ensure content fills the entire height */
     padding-left: 160px;
     color: #ffffff; /* Adjust text color as needed */
   }
