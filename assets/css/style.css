@@ -447,7 +447,6 @@ section {
   width: 100%;
   position: relative;
   text-align: center;
-  background: #fff;
 }
 
 .facts .count-box i {
@@ -470,7 +469,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #011426;
+  color: #f1f4f7;
 }
 
 .facts .count-box p {
