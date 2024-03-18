@@ -938,21 +938,6 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact {
-  width: 100%;
-  height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-@media (min-width: 992px) {
-  .contact {
-    padding-left: 160px;
-  }
-}
-
-
 .contact .info {
   width: 100%;
   background: #fff;
@@ -977,14 +962,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #eef7ff;
+  color: #45505b;
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #0563bb;
+  color: #728394;
 }
 
 .contact .info .email,
