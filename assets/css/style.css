@@ -549,13 +549,13 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #f7f8f9;
+  color: #04bcfa;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #04bcfa;
   position: relative;
 }
 
@@ -565,7 +565,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #04bcfa;
+  color: #f7f8f9;
   margin-bottom: 10px;
 }
 
