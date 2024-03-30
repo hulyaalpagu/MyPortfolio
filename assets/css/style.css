@@ -210,7 +210,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   color: #fff;
-  background: #0563bb;
+  background: #04bcfa;
 }
 
 .nav-menu a:hover span,
@@ -300,7 +300,7 @@ h6 {
 }
 
 #hero p span {
-  color: #0563bb;
+  color: #04bcfa;
   letter-spacing: 1px;
 }
 
@@ -378,7 +378,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+  background: #04bcfa;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -429,7 +429,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #0563bb;
+  color: #04bcfa;
   line-height: 0;
 }
 
