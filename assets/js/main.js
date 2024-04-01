@@ -87,7 +87,7 @@
     onscroll(document, toggleBacktotop)
   }
 
-  /**
+  /*
    * Mobile nav toggle
    */
   on('click', '.mobile-nav-toggle', function(e) {
