@@ -401,6 +401,7 @@ section {
 @media (min-width: 992px) {
   .about {
     padding-left: 160px;
+    color: #f1f4f7;
   }
 }
 
